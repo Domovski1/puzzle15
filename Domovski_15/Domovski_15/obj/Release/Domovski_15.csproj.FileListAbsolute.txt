@@ -1,0 +1,8 @@
+C:\Users\62427\documents\visual studio 2017\Projects\Domovski_15\Domovski_15\bin\Release\Domovski_15.exe.config
+C:\Users\62427\documents\visual studio 2017\Projects\Domovski_15\Domovski_15\bin\Release\Domovski_15.exe
+C:\Users\62427\documents\visual studio 2017\Projects\Domovski_15\Domovski_15\bin\Release\Domovski_15.pdb
+C:\Users\62427\documents\visual studio 2017\Projects\Domovski_15\Domovski_15\obj\Release\Domovski_15.Main.resources
+C:\Users\62427\documents\visual studio 2017\Projects\Domovski_15\Domovski_15\obj\Release\Domovski_15.Properties.Resources.resources
+C:\Users\62427\documents\visual studio 2017\Projects\Domovski_15\Domovski_15\obj\Release\Domovski_15.csproj.GenerateResource.Cache
+C:\Users\62427\documents\visual studio 2017\Projects\Domovski_15\Domovski_15\obj\Release\Domovski_15.exe
+C:\Users\62427\documents\visual studio 2017\Projects\Domovski_15\Domovski_15\obj\Release\Domovski_15.pdb

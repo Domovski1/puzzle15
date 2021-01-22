@@ -1,0 +1,9 @@
+c:\users\62427\documents\visual studio 2017\Projects\Domovski_15\Domovski_15\bin\Debug\Domovski_15.exe.config
+c:\users\62427\documents\visual studio 2017\Projects\Domovski_15\Domovski_15\bin\Debug\Domovski_15.exe
+c:\users\62427\documents\visual studio 2017\Projects\Domovski_15\Domovski_15\bin\Debug\Domovski_15.pdb
+c:\users\62427\documents\visual studio 2017\Projects\Domovski_15\Domovski_15\obj\Debug\Domovski_15.csprojResolveAssemblyReference.cache
+c:\users\62427\documents\visual studio 2017\Projects\Domovski_15\Domovski_15\obj\Debug\Domovski_15.Properties.Resources.resources
+c:\users\62427\documents\visual studio 2017\Projects\Domovski_15\Domovski_15\obj\Debug\Domovski_15.csproj.GenerateResource.Cache
+c:\users\62427\documents\visual studio 2017\Projects\Domovski_15\Domovski_15\obj\Debug\Domovski_15.exe
+c:\users\62427\documents\visual studio 2017\Projects\Domovski_15\Domovski_15\obj\Debug\Domovski_15.pdb
+c:\users\62427\documents\visual studio 2017\Projects\Domovski_15\Domovski_15\obj\Debug\Domovski_15.Main.resources
